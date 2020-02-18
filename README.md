@@ -8,3 +8,5 @@ EFI folder for MSI mpg z390 Gaming Plus
 <li>Ram : 8gb (Unknown)</li>
 <li>Storage : M.2 256 GB</li>
 
+# Not working
+iMessage
