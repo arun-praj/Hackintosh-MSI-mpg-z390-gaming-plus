@@ -1,0 +1,25 @@
+Lion
+php obtain_recovery.php Mac-2E6FAB96566FE58C
+php obtain_recovery.php Mac-C3EC7CD22292981F
+
+Mountain Lion:
+php obtain_recovery.php Mac-7DF2A3B5E5D671ED
+
+Mavericks
+php obtain_recovery.php Mac-F60DEB81FF30ACF6
+
+Yosemite:
+php obtain_recovery.php Mac-E43C1C25D4880AD6
+
+El Capitan
+php obtain_recovery.php Mac-FFE5EF870D7BA81A
+
+Sierra
+php obtain_recovery.php Mac-B809C3757DA9BB8D
+
+High Sierra
+php obtain_recovery.php Mac-7BA5B2D9E42DDD94
+php obtain_recovery.php Mac-BE088AF8C5EB4FA2
+
+Mojave
+php obtain_recovery.php Mac-7BA5B2DFE22DDD8C
