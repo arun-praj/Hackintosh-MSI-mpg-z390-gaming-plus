@@ -1,2 +1,2 @@
-> Catilina 10.15.5
-> iGPU
+> 1. Catilina 10.15.5
+> 2. iGPU
