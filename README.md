@@ -10,6 +10,7 @@ Download OS: https://github.com/corpnewt/gibMacOS.git
 <li>CPU : intel i7 9700k</li>
 <li>Ram : 8gb (Unknown)</li>
 <li>Storage : M.2 256 GB</li>
+<li>No dedicated graphics</li>
 
 ## Not working
 iMessage
