@@ -1,0 +1,1 @@
+bless bless --folder "/Volumes/Macintosh HD/System/Library/CoreServices" \ --bootefi --personalize
